@@ -12,7 +12,7 @@ In this lab, you will call methods on arrays, like `#sort` and `#include?`.
 4. Find the first and last elements in an array using the `#first` and `#last` methods.
 5. Determine the size, or length, of an array using the `#size` method.
 
-## Instructions
+## Instructionsf
 
 In this lab, we will be coding the solutions for each of the above tasks in the body of a method. In `lib/array_methods.rb` we've defined a series of methods for you, each of which is responsible for one of the tasks above. Your job is to write the code in the body of each method to get the tests passing.
 
